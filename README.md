@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋  Im Athira
+Welcome to my GitHub profile! I'm passionate about learning, building, and sharing knowledge in the world of programming and technology. 
+
+- 🌱 I’m currently putting all my focus on Java, so if you are interested in too, lets connect!
+Feel free to dive into my repositories or reach out. Let’s collaborate and create something awesome! 🚀
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=athirapratheep&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=athirapratheep&theme=radical)](https://git.io/streak-stats)
+
 
 <!--
 **athirapratheep/athirapratheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
