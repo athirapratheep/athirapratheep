@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about learning, building, and shari
 Feel free to dive into my repositories or reach out. Let’s collaborate and create something awesome! 🚀
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=athirapratheep&show_icons=true&theme=radical)
-![2025 Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=athirapratheep&show_icons=true&hide=javascript&theme=radical)
+![2025 Contributions Heatmap](https://ghchart.rshah.org/athirapratheep)
 
 
 <!--
