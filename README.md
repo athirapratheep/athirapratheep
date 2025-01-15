@@ -3,8 +3,6 @@ Welcome to my GitHub profile! I'm passionate about learning, building, and shari
 
 - 🌱 I’m currently putting all my focus on Java, so if you are interested in too, lets connect!
 Feel free to dive into my repositories or reach out. Let’s collaborate and create something awesome! 🚀
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=athirapratheep&show_icons=true&theme=radical)
 ![2025 Contributions Heatmap](https://ghchart.rshah.org/athirapratheep)
 
 
