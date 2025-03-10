@@ -2,6 +2,7 @@
 Welcome to my GitHub profile! I'm passionate about learning, building, and sharing knowledge in the world of programming and technology. 
 
 - 🌱 I’m currently putting all my focus on Java, so if you are interested in too, lets connect!
+  
 Feel free to dive into my repositories or reach out. Let’s collaborate and create something awesome! 🚀
 ![2025 Contributions Heatmap](https://ghchart.rshah.org/athirapratheep)
 
