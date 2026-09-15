@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm passionate about learning, building, and shari
 - 🌱 I’m currently putting all my focus on Java, so if you are interested in too, lets connect!
   
 Feel free to dive into my repositories or reach out. Let’s collaborate and create something awesome! 🚀
-![2025 Contributions Heatmap](https://ghchart.rshah.org/athirapratheep)
-
 
 <!--
 **athirapratheep/athirapratheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
